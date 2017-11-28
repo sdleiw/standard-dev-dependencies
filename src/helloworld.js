@@ -1,5 +1,5 @@
 export default {
     printHello (str) {
-        return 'hello ' + str 
+        return 'hello ' + str
     }
 }
