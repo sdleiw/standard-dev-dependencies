@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/sdleiw/standard-dev-dependencies.svg?branch=master)](https://travis-ci.org/sdleiw/standard-dev-dependencies)
+
 dev dependencies
 ====
 
