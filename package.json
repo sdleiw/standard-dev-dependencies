@@ -1,8 +1,7 @@
 {
   "name": "standard-dev-dependencies",
   "version": "1.0.1",
-  "description": "",
-  "main": "index.js",
+  "description": "js project dev dependencies",
   "scripts": {
     "lint": "./node_modules/.bin/eslint **/*.js",
     "test": "mocha-webpack --opts test/mocha.opts",
@@ -14,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/sdleiw/standard-dev-dependencies.git"
   },
-  "keywords": [],
+  "keywords": ["es6", "webpack", "eslint", "travis", "coveralls", "mocha"],
   "author": "sdleiw",
   "license": "ISC",
   "bugs": {
