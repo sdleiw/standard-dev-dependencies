@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "lint": "./node_modules/.bin/eslint **/*.js",    
+    "lint": "./node_modules/.bin/eslint **/*.js",
     "test": "mocha-webpack --opts test/mocha.opts",
     "test:watch": "npm run test --watch",
     "test:coverage": "cross-env NODE_ENV=test nyc npm run test",
@@ -15,7 +15,7 @@
     "url": "git+https://github.com/sdleiw/standard-dev-dependencies.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "sdleiw",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sdleiw/standard-dev-dependencies/issues"
