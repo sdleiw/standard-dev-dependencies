@@ -1,6 +1,6 @@
 {
   "name": "standard-dev-dependencies",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "js project dev dependencies",
   "scripts": {
     "lint": "./node_modules/.bin/eslint **/*.js",
