@@ -1,6 +1,6 @@
 {
   "name": "standard-dev-dependencies",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
     "url": "https://github.com/sdleiw/standard-dev-dependencies/issues"
   },
   "homepage": "https://github.com/sdleiw/standard-dev-dependencies#readme",
-  "devDependencies": {
+  "dependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
     "babel-eslint": "^8.0.2",
