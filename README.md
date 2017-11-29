@@ -13,3 +13,5 @@ Config
 ---
 
 looks like this repo
+
+> @todo: add cli to boilerplate this template
